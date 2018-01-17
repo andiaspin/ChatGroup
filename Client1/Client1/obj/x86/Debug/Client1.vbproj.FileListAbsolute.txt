@@ -1,0 +1,18 @@
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Client1\Client1\bin\Debug\Client1.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Client1\Client1\bin\Debug\Client1.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Client1\Client1\bin\Debug\Client1.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Client1\Client1\obj\x86\Debug\Client1.Form1.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Client1\Client1\obj\x86\Debug\Client1.Resources.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Client1\Client1\obj\x86\Debug\Client1.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Client1\Client1\obj\x86\Debug\Client1.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Client1\Client1\obj\x86\Debug\Client1.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Client1\Client1\obj\x86\Debug\Client1.pdb
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Client1\Client1\obj\x86\Debug\Client1.exe
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Client1\Client1\obj\x86\Debug\Client1.xml
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Client1\Client1\obj\x86\Debug\Client1.pdb
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Client1\Client1\bin\Debug\Client1.exe
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Client1\Client1\bin\Debug\Client1.pdb
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Client1\Client1\bin\Debug\Client1.xml
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Client1\Client1\obj\x86\Debug\Client1.Form1.resources
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Client1\Client1\obj\x86\Debug\Client1.Resources.resources
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Client1\Client1\obj\x86\Debug\Client1.vbproj.GenerateResource.Cache

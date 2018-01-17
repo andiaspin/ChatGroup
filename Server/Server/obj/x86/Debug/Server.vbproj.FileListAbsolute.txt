@@ -1,0 +1,18 @@
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Server\Server\obj\x86\Debug\Server.xml
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Server\Server\bin\Debug\Server.exe
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Server\Server\bin\Debug\Server.pdb
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Server\Server\bin\Debug\Server.xml
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Server\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Server\Server\obj\x86\Debug\Server.Resources.resources
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\Chat Group\Server\Server\obj\x86\Debug\Server.vbproj.GenerateResource.Cache
